@@ -1,0 +1,9 @@
+build
+dist
+.venv
+build_script.bat
+icon.ico
+parse.html
+ProductParser.spec
+__pycache__
+.idea
